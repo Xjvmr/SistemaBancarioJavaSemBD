@@ -20,7 +20,7 @@ public class Cadastro {
             System.out.println("As senhas não coincidem. Cadastro falhou.");
         }
     }
-
+dsaadsawdsaw
     public void loginUsuario(Scanner scanner) {
         System.out.print("CPF: ");
         String lcpf = scanner.nextLine();
